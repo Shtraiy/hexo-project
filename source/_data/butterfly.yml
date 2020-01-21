@@ -52,8 +52,8 @@ copy:
 #   icon: link
 # ---------------
 social:
-  fa fa-github: https://github.com/jerryc127
-  fa fa-envelope: mailto:xxxxxxxx@gmail.com
+  fa fa-github: https://github.com/Shtraiy
+  fa fa-envelope: mailto:weihuazhen24@gmail.com
   fa fa-rss: /atom.xml
 
 ####    search    ####
@@ -110,7 +110,7 @@ default_top_img: https://s2.ax1x.com/2020/01/21/1FtR6e.jpg
 default_cover: https://s2.ax1x.com/2020/01/19/1CA6tf.png
 
 # the banner image of archive page
-archive_img: https://s2.ax1x.com/2020/01/21/1FaMOe.jpg
+archive_img: rgba(0,0,0,0.15)
 
 # the banner image of tag page
 tag_img: https://s2.ax1x.com/2020/01/21/1FtdOJ.png
@@ -226,7 +226,7 @@ valine:
 
 #####     Footer Settings    ####
 # ------------------------------------
-since: 2019
+since: 2020
 
 footer_custom_text: Welcome to my <a href="https://shtraiy.github.io/Conjuction/">blog</a>!
 
@@ -309,9 +309,9 @@ related_post:
 # ---------------
 theme_color:
   enable: true
-  main: "#f549a2"
+  main: "rgba(0,0,0,0.15)"
   paginator: "#c4007c"
-  button_hover: "#ff4274"
+  button_hover: "rbga(0,0,0,0.2)"
   text_selection: "#c4006c"
   link_color: "#bf99a5"
   meta_color: '#858585'
@@ -340,10 +340,10 @@ tag_ui: # 留空或index
 # 圖片格式 background: url(http://xxxxxx.com/xxx.jpg)
 # 顔色 background: '#49B202'
 # 留空 顯示白色
-background: rbga(255,255,255,0.2)
+background: url(https://s2.ax1x.com/2020/01/20/1PmuB4.png)
 
 # footer是否顯示圖片背景(與top_img一致)
-footer_bg: true
+footer_bg: false
 
 # 背景特效
 # 避免卡頓，建議只開啓一個

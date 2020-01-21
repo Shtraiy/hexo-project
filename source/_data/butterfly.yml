@@ -228,7 +228,7 @@ valine:
 # ------------------------------------
 since: 2019
 
-footer_custom_text:
+footer_custom_text: Welcome to my <a href="https://shtraiy.github.io/Conjuction/">blog</a>!
 
 footer_copyright:
   enable: true

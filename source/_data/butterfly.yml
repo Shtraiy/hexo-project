@@ -309,7 +309,7 @@ related_post:
 # ---------------
 theme_color:
   enable: true
-  main: "#f549a2"
+  main: "rgba(0,0,0,0.15)"
   paginator: "#c4007c"
   button_hover: "#ff4274"
   text_selection: "#c4006c"
@@ -340,7 +340,7 @@ tag_ui: # 留空或index
 # 圖片格式 background: url(http://xxxxxx.com/xxx.jpg)
 # 顔色 background: '#49B202'
 # 留空 顯示白色
-background: rbga(255,255,255,0.2)
+background: url(https://s2.ax1x.com/2020/01/20/1PmuB4.png)
 
 # footer是否顯示圖片背景(與top_img一致)
 footer_bg: true

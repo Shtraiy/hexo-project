@@ -101,7 +101,7 @@ katex:
 avatar: https://s2.ax1x.com/2020/01/20/1ieM80.png
 
 # the banner image of index
-index_img: rgba(255,255,255,0.15)
+index_img: https://s2.ax1x.com/2020/01/20/1PmuB4.png
 
 # if the banner of page not setting,it will show the top_img
 default_top_img: false
@@ -112,7 +112,7 @@ default_cover:
   - https://s2.ax1x.com/2020/01/21/1FtdOJ.png
 
 # the banner image of archive page
-archive_img: rgba(255,255,255,0.15)
+archive_img: https://s2.ax1x.com/2020/01/20/1PmuB4.png
 
 # the banner image of tag page
 tag_img: https://s2.ax1x.com/2020/01/21/1FtdOJ.png

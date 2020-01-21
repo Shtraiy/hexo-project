@@ -341,7 +341,7 @@ tag_ui: # 留空或index
 # 圖片格式 background: url(http://xxxxxx.com/xxx.jpg)
 # 顔色 background: '#49B202'
 # 留空 顯示白色
-background:
+background: rbga(255,255,255,0.2)
 
 # footer是否顯示圖片背景(與top_img一致)
 footer_bg: false

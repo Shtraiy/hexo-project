@@ -101,13 +101,15 @@ katex:
 avatar: https://s2.ax1x.com/2020/01/20/1ieM80.png
 
 # the banner image of index
-index_img: rgba(255,255,255,0)
+index_img: rgba(255,255,255,0.15)
 
 # if the banner of page not setting,it will show the top_img
 default_top_img: false
 
 # the default cover of the post
-default_cover: rgba(255,255,255,0.15)
+default_cover: 
+  - https://s2.ax1x.com/2020/01/21/1FtKyQ.jpg
+  - https://s2.ax1x.com/2020/01/21/1FtdOJ.png
 
 # the banner image of archive page
 archive_img: rgba(255,255,255,0.15)
@@ -289,10 +291,10 @@ reward:
   enable: true
   QR_code:
     - itemlist:
-        img: /img/wechat.jpg
+        img: /
         text: 微信
     - itemlist:
-        img: /img/alipay.jpg
+        img: 
         text: 支付寶
 
 # 推薦文章

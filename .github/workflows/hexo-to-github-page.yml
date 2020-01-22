@@ -1,6 +1,9 @@
 name: Deploy to GitHub Page
 
-on: [push]
+on:
+  push:
+    branches:    
+      - dev
 
 jobs:
   build-and-push:

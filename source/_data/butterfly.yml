@@ -279,13 +279,13 @@ qihu_site_verification:
 
 # 友情鏈接界面設置
 Flink:
-  headline: 友情鏈接
-  info_headline: 我的Blog資料
+  headline: 友情链接
+  info_headline: 我的Blog资料
   name: Blog 名字：西行寺幽々子の白玉楼
   address: Blog 地址： https://shtraiy.github.io/Conjuction/
   avatar: Blog 頭像： https://s2.ax1x.com/2020/01/20/1ieM80.png
   info: Blog 簡介：幽冥楼閣の亡霊少女
-  comment: 
+  comment: 欢迎各位大佬添加友链
 # 打賞按鈕
 reward:
   enable: true

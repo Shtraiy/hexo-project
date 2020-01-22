@@ -104,3 +104,16 @@ deploy:
   type: git
   repo: https://github.com/Shtraiy/Conjuction.git
   branch: master
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: false
+  hub:
+  content: true
+  content_limit: false
+  content_limit_delim:
+  order_by: -date
+  icon:
+  autodiscovery: true
+  template:

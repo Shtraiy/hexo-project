@@ -54,7 +54,7 @@ copy:
 social:
   fa fa-github: https://github.com/Shtraiy
   fa fa-envelope: mailto:weihuazhen24@gmail.com
-  fa fa-rss: /atom.xml
+  fa fa-rss: /Conjuction/atom.xml
 
 ####    search    ####
 # Algolia search
